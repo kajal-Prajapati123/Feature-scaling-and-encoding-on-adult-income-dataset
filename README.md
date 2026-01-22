@@ -1,0 +1,1 @@
+# Feature-scaling-and-encoding-on-adult-income-dataset
